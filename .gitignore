@@ -1,0 +1,17 @@
+# Local runtime data, credentials, build outputs and reports
+.local/
+target/
+target-*/
+config/application-local.properties
+config/payos-local.properties
+*.log
+*.jar
+*.jar.original
+*.env
+.env*
+*.docx
+*.pdf
+taikhoantest.txt
+dbpass*.txt
+.idea/
+.vscode/
